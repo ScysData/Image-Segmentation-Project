@@ -22,7 +22,7 @@ Cutting-edge vision transformer approach to explore the latest advancement in im
 - **Custom Implementations**: Built from scratch to demonstrate architectural understanding
 - **Modern Techniques**: Integration of latest research in computer vision
 
-## 🏗️ Architecture Breakdown
+## Architectures Applied
 
 ### Part 1: Custom U-Net Implementation
 ![image](https://github.com/user-attachments/assets/3b3fb5b6-1a9a-4d89-bc48-838b9c567bb2)
@@ -57,7 +57,7 @@ reference: [SegFormer: Simple and Efficient Design for Semantic Segmentation wit
 - light-weight decoder for simplicity and efficiency
 
 
-## 📊 Comparative Analysis
+<!---## 📊 Comparative Analysis
 
 ### Architecture Comparison
 
@@ -65,7 +65,7 @@ reference: [SegFormer: Simple and Efficient Design for Semantic Segmentation wit
 |-------|------------|-------|-----------|---------------|---------------|
 | U-Net | ~31M | 124G | 0.85 | Baseline | Simple, interpretable |
 | U-Net++ | ~44M | 152G | 0.89 | +25% | Dense connections |
-| SegFormer | ~64M | 180G | 0.92 | +40% | Global context |
+| SegFormer | ~64M | 180G | 0.92 | +40% | Global context |--- !>
 
 ### Performance Metrics
 - **Dice Coefficient**: Overlap similarity measurement  
@@ -103,7 +103,7 @@ Image-Segmentation-Project/
 └── README.md                    # Project documentation
 ```
 
-##  Key Results and Demonstrations
+<!---##  Key Results and Demonstrations--- !>
 
 
 ##  Citations & References
