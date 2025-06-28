@@ -72,7 +72,7 @@ reference: [SegFormer: Simple and Efficient Design for Semantic Segmentation wit
 - **Pixel Accuracy**: Per-pixel classification accuracy
 
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### Technologies Stack
 
@@ -80,7 +80,7 @@ reference: [SegFormer: Simple and Efficient Design for Semantic Segmentation wit
 - **Computer Vision Modules**: PyTorch, SegmentationModels, Transformers (Hugging Face), OpenCV, Albumentations
 
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Image-Segmentation-Project/
@@ -103,15 +103,10 @@ Image-Segmentation-Project/
 └── README.md                    # Project documentation
 ```
 
-## 🔍 Key Results and Demonstrations
+##  Key Results and Demonstrations
 
 
-## 🏆 Professional Impact
-
-This comprehensive study demonstrates:
-
-
-## 📄 Citations & References
+##  Citations & References
 
 ```bibtex
 @article{ronneberger2015unet,
