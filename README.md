@@ -65,7 +65,8 @@ reference: [SegFormer: Simple and Efficient Design for Semantic Segmentation wit
 |-------|------------|-------|-----------|---------------|---------------|
 | U-Net | ~31M | 124G | 0.85 | Baseline | Simple, interpretable |
 | U-Net++ | ~44M | 152G | 0.89 | +25% | Dense connections |
-| SegFormer | ~64M | 180G | 0.92 | +40% | Global context |--- !>
+| SegFormer | ~64M | 180G | 0.92 | +40% | Global context |
+-->
 
 ### Performance Metrics
 - **Dice Coefficient**: Overlap similarity measurement  
@@ -103,7 +104,7 @@ Image-Segmentation-Project/
 └── README.md                    # Project documentation
 ```
 
-<!---##  Key Results and Demonstrations--- !>
+<!---##  Key Results and Demonstrations-->
 
 
 ##  Citations & References
