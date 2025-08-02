@@ -1,6 +1,6 @@
-# Image Segmentation Project: A three-part Study of Modern Segmentation Architectures on Satellite Waterbodies image
+# Image Segmentation Project: A three-part Study of Image Segmentation Architectures on Satellite Waterbodies image
 
-A comprehensive deep learning project showcasing the different image segmentation architectures from classic U-Net to Nested Unet (Unet++) to state-of-the-art vision transformer models, implemented for water body detection in satellite images.
+A comprehensive deep learning project showcasing the different image segmentation architectures from classic U-Net to Nested Unet (Unet++) to vision transformer models, implemented for water body detection in satellite images.
 
 ## Project Overview
 
